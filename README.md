@@ -4,7 +4,7 @@
 Soy estudiante de Ciencia de Datos enfocado/a en el análisis de datos, modelamiento predictivo y visualización para la toma de decisiones estratégicas.
 
 ### 📍 ¿De dónde soy?
-Santiago, Chile 🇨🇱
+Valparaíso, Chile 🇨🇱
 
 ### 💼 ¿A qué me dedico?
 Actualmente desarrollo proyectos de análisis exploratorio (EDA), limpieza de datos y modelos predictivos de Machine Learning aplicados a problemas del mundo real.
